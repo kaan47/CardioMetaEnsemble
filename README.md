@@ -7,7 +7,7 @@ This repository uses a publicly available dataset:
 
 - **Heart Disease Dataset – Comprehensive**  
   Source: [IEEE DataPort](https://ieee-dataport.org/open-access/heart-disease-dataset-comprehensive)  
-  Description: Contains anonymized clinical and demographic features for heart disease prediction, enabling reproducible machine learning research in cardiovascular risk assessment.  
+  Description: Description: This dataset combines five heart disease cohorts over 11 common features, which can be used to build predictive machine learning models for early-stage heart disease detection. Its use allows for benchmarking the performance of analytical methods against other studies conducted on the same dataset. 
 
 ## Files
 
