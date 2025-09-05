@@ -11,19 +11,25 @@ This repository uses a publicly available dataset:
 
 ## Files
 
-- `EnsembleMetaCardio.ipynb` – Main Jupyter notebook implementing ensemble and meta-learning approaches  
+- `CardioMetaEnsemble.ipynb` – Main Jupyter notebook implementing ensemble and meta-learning approaches  
 - `README.md` – Project description and documentation  
 
 ## Usage
 
-The analysis is implemented in a single Jupyter Notebook: `EnsembleMetaCardio.ipynb`.  
-To explore the workflow:  
+1. **Download the notebook**  
+   Download `CardioMetaEnsemble.ipynb`.
 
-1. Open the notebook in Jupyter Notebook or JupyterLab.  
-2. Follow the step-by-step sections to:  
-   - Train multiple ensemble and meta-learning models  
-   - Perform model evaluation using standard metrics (e.g., ROC, AUC, accuracy, precision, recall, F1-score)  
-   - Generate visualizations including ROC curves, learning curves, and comparative performance plots
+2. **Download the dataset**  
+   Download the **Heart Disease Dataset – Comprehensive** from IEEE DataPort.
+
+3. **Provide the dataset to the notebook**  
+   - **Option 1 (Recommended):** Place the dataset file in the **current working directory (cwd)** of the Jupyter Notebook.  
+   - **Option 2:** Alternatively, specify the full path to your dataset by updating each of the six occurrences of the `file_path` variable in the notebook
 
 ## Notes
-This repository is shared for peer-review purposes. License terms will be updated upon publication.
+
+> This repository is shared for **peer-review purposes**.  
+> The notebook represents the final, polished version of the CardioMetaEnsemble analysis, summarizing a much larger set of analyses and experiments conducted during the research process.  
+> It includes the key results and workflows necessary to reproduce the main findings, but many additional exploratory analyses, intermediate steps, and data investigations are not included here.  
+> License terms will be updated upon publication.
+
