@@ -8,8 +8,6 @@ State-of-the-art ensemble and meta-learning Python models for precise cardiovasc
 > The notebook represents the final, polished version of the CardioMetaEnsemble analysis, summarizing a much larger set of analyses and experiments conducted during the research process.
 > 
 > It provides all key results and workflows required to reproduce the main findings, while additional exploratory analyses, intermediate steps, and supplementary investigations from the research process are presented in a concise, condensed form.
->  
-> License terms will be updated upon publication.
 
 ## Dataset
 
